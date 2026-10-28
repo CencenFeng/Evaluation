@@ -1,5 +1,0 @@
-id,clip,instruction,target_text,purpose
-k01,walk.mp4,turn the woman into a cartoon character,a cartoon character walking a dog on a city street,anonymise
-k02,walk.mp4,make it a watercolour painting,a watercolour painting of a woman walking a dog on a street,restyle
-k03,campus.mp4,make it a sunny summer afternoon with green trees,a university campus on a sunny summer afternoon,restyle
-k04,campus.mp4,make it look like a pencil sketch,a pencil sketch of university campus buildings,restyle
