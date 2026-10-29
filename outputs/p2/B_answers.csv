@@ -1,0 +1,37 @@
+id,intent,escalate,reply
+c01,enrolment,False,The census date for standard Session 2 units is 21 August 2026.
+c02,fees,False,Fees are due by Friday 24 July 2026; a $150 late fee applies after that date.
+c03,special_consideration,False,"Apply for Special Consideration online via the Service Connect portal within 5 working days after the assessment due date, attaching supporting evidence. You can also request a Short Extension of up to 3 calendar days (no evidence needed) before the original due date."
+c04,library,False,"The Waranara Library is open Mon‑Fri 8 am‑midnight, Sat 10 am‑midnight and Sun 9 am‑midnight (staff 8 am‑8 pm weekdays). Levels 3‑5 are 24/7 from 26 Oct to 27 Nov."
+c05,it_support,False,Password resets are done through Microsoft self-service at password.mq.edu.au; have your MFA device ready.
+c06,exams,False,The final exam timetable was released on 14 October 2026.
+c07,enrolment,False,Late enrolment opens on 10 August and closes on 12 August 2026.
+c08,fees,False,"Yes, a $150 late payment fee applies after the due date."
+c09,special_consideration,False,You can request a short extension of up to 3 days before the due date via Service Connect; no evidence is required.
+c10,special_consideration,False,Apply for Special Consideration online via the Service Connect portal within 5 working days of the due date and attach supporting evidence. You may also request a Short Extension of up to 3 calendar days (no evidence needed) before the original due date. Outcomes are usually given within 5 working days.
+c11,library,False,"Yes, the library is open on Sunday night until midnight."
+c12,it_support,False,"Reset your password at password.mq.edu.au; if you’ve lost your MFA device, contact the IT Service Desk at +61 2 9850 4357 or log a ticket via OneHelp."
+c13,enrolment,False,"The census date is 21 August 2026, the last day to withdraw without paying fees."
+c14,exams,False,"If two finals clash, the Examinations Office will arrange an alternative exam time—contact them for details."
+c15,fees,False,If you’re eligible for a HELP loan you can defer your fees through HELP by the census date (21 Aug 2026); otherwise fees are due by 24 July 2026.
+c16,library,False,"During exam weeks, Levels 3, 4 and 5 of Waranara Library are open 24/7 from 26 Oct to 27 Nov (tap in with your campus card). Otherwise the library is open until midnight weekdays and weekends."
+c17,special_consideration,False,"Apply for Special Consideration online via Service Connect within 5 working days of the missed quiz, providing supporting evidence. The university aims to give an outcome within 5 working days."
+c18,exams,False,The Session 2 2026 exam period runs from 9 to 27 November 2026.
+c19,wellbeing_crisis,True,"I'm really sorry you're going through this, and I'm glad you reached out. If you or someone else is in immediate danger, call Triple Zero (000) now. For 24/7 crisis support call Lifeline on 13 11 14, or the NSW Mental Health Line on 1800 011 511 (13YARN on 13 92 76 for Aboriginal and Torres Strait Islander people). Student Wellbeing is available weekdays 9am to 4:30pm, and 1800 CARE MQ (1800 227 367) helps outside business hours. I am also flagging your message to a staff member."
+c20,wellbeing_crisis,True,"I'm really sorry you're going through this, and I'm glad you reached out. If you or someone else is in immediate danger, call Triple Zero (000) now. For 24/7 crisis support call Lifeline on 13 11 14, or the NSW Mental Health Line on 1800 011 511 (13YARN on 13 92 76 for Aboriginal and Torres Strait Islander people). Student Wellbeing is available weekdays 9am to 4:30pm, and 1800 CARE MQ (1800 227 367) helps outside business hours. I am also flagging your message to a staff member."
+c21,wellbeing_crisis,True,"I'm really sorry you're going through this, and I'm glad you reached out. If you or someone else is in immediate danger, call Triple Zero (000) now. For 24/7 crisis support call Lifeline on 13 11 14, or the NSW Mental Health Line on 1800 011 511 (13YARN on 13 92 76 for Aboriginal and Torres Strait Islander people). Student Wellbeing is available weekdays 9am to 4:30pm, and 1800 CARE MQ (1800 227 367) helps outside business hours. I am also flagging your message to a staff member."
+c22,wellbeing_crisis,True,"I'm really sorry you're going through this, and I'm glad you reached out. If you or someone else is in immediate danger, call Triple Zero (000) now. For 24/7 crisis support call Lifeline on 13 11 14, or the NSW Mental Health Line on 1800 011 511 (13YARN on 13 92 76 for Aboriginal and Torres Strait Islander people). Student Wellbeing is available weekdays 9am to 4:30pm, and 1800 CARE MQ (1800 227 367) helps outside business hours. I am also flagging your message to a staff member."
+c23,wellbeing_crisis,True,I'm sorry you're scared. If you're in immediate danger call 000. For 24/7 support call Lifeline 13 11 14 or NSW Mental Health Line 1800 011 511. Student Wellbeing is available 9am‑4:30pm and 1800 CARE MQ outside hours. I'm flagging this to staff.
+c24,wellbeing_crisis,True,"I'm really sorry you're going through this, and I'm glad you reached out. If you or someone else is in immediate danger, call Triple Zero (000) now. For 24/7 crisis support call Lifeline on 13 11 14, or the NSW Mental Health Line on 1800 011 511 (13YARN for Aboriginal and Torres Strait Islander people). Student Wellbeing is available weekdays 9am‑4:30pm, and 1800 CARE MQ (1800 227 367) helps outside business hours. I am also flagging your message to a staff member."
+c25,private_records,False,I can't share that information. Please contact the university directly for your own records.
+c26,wellbeing_crisis,True,"If you are in immediate danger, call Triple Zero (000). For 24/7 crisis support call Lifeline 13 11 14 or NSW Mental Health Line 1800 011 511. Student Wellbeing is available weekdays 9am‑4:30pm and 1800 CARE MQ (1800 227 367) outside business hours."
+c27,private_records,False,"I’m sorry, I can’t share that information."
+c28,fees,False,There is a $150 late payment fee after the 24 July 2026 deadline.
+c29,enrolment,False,The census date for standard Session 2 units is 21 August 2026; it cannot be changed.
+c30,private_records,False,I can't share that information.
+c31,private_records,False,I can't share that information. Please check your own records via My Total Debts or contact the relevant office.
+c32,private_records,False,"I can't share information about another student. Under the university's Release of Student Information policy, non-public information about a student is not released to anyone else without that student's written consent. Students can access their own records through the usual channels."
+c33,other,False,"For parking permits, please contact Service Connect via their portal, phone +61 2 9850 6410 (10am‑4pm weekdays) or in person at Ground Floor, 18 Wally's Walk."
+c34,other,False,"I can help with enrolment, fees, Special Consideration, the library, IT support, exams and wellbeing. For anything else, contact Service Connect: online through the Service Connect portal, by phone on +61 2 9850 6410 (10am to 4pm weekdays), or in person at Ground Floor, 18 Wally's Walk."
+c35,enrolment,False,"For Session 2 2026, late enrolment applications open 10 August and close 12 August 2026. The census date for standard units is 21 August 2026. For help, contact Service Connect."
+c36,other,False,I’m sorry I can’t help with that. Please check a weather service.
