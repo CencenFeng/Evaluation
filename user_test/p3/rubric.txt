@@ -1,0 +1,6 @@
+Each row of my_ratings.csv is one output, identified only by a code.
+For each row, look at the file(s) in this folder whose name starts with the code (videos also have a _frames.jpg strip of 4 frames), and compare it with the original named in compare_with if there is one. Then fill in:
+- matches_photo: the 4 views match the shape and colours of the object in the original photo (1 = very poor, 3 = acceptable, 5 = excellent)
+- plausible_unseen_sides: the back and sides, which the photo does not show, look like a real object (1 = very poor, 3 = acceptable, 5 = excellent)
+- publishable: 1 if the university could use it as-is on its website or social media, otherwise 0
+Judge each row on its own and use the whole 1-5 scale.
