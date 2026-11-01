@@ -1,0 +1,5 @@
+pair,task,System A,System B,A_total,B_total,recommended
+p1,Synthetic student records,CTGAN,ForestFlow,0.2,0.8,B
+p2,Student enquiry agent,Rule-based agent,LLM agent (gpt-oss-120b),0.34,0.66,B
+p3,Open-day 3D objects,TripoSR,TRELLIS,0.5,0.5,tie
+p4,Promotional clips (text-to-video),AnimateDiff,Wan 2.1 T2V 1.3B,0.65,0.35,A
